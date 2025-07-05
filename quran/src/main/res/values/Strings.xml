@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="juz_txt">الجزء: %d</string>
+    <string name="sura_txt">سوره: %s</string>
+    <string name="download_aya_msg">يجب تحمل ايات سوره %s اولا</string>
+    <string name="download_surah">تحميل سوره : %s</string>
+    <string name="aya_num">ايه رقم  : %d</string>
+
+</resources>

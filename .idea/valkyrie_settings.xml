@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Valkyrie.Settings">
+    <option name="addTrailingComma" value="true" />
+    <option name="flatPackage" value="true" />
+    <option name="generatePreview" value="true" />
+    <option name="iconPackDestination" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <option name="iconPackName" value="Icons" />
+    <option name="iconPackPackage" value="androidx.compose.material.icons" />
+    <option name="mode" value="Simple" />
+    <option name="nestedPacks" value="Filled,Outlined,Rounded,TwoTone,Sharp" />
+    <option name="outputFormat" value="lazy_property" />
+    <option name="packageName" value="com.mabrouk.muslimarchive" />
+    <option name="useExplicitMode" value="true" />
+    <option name="useMaterialPack" value="true" />
+  </component>
+</project>

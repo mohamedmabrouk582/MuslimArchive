@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">دليل المسلم</string>
+    <string name="quran_title">القران</string>
+    <string name="azkar_title">اذكار</string>
+    <string name="hadec_title">حديث</string>
+    <string name="story_title">قصص</string>
+    <string name="radio_title">اذاعه</string>
+</resources>

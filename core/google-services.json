@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "946761059596",
+    "project_id": "muslim-archive",
+    "storage_bucket": "muslim-archive.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946761059596:android:bee2970c4660a0eed74d29",
+        "android_client_info": {
+          "package_name": "com.mabrouk.core"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hDvgxRZlnkXrkbZqCaMC6WZvUsIXVVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946761059596:android:70a07f9e6978dd4fd74d29",
+        "android_client_info": {
+          "package_name": "com.mabrouk.muslimarchive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hDvgxRZlnkXrkbZqCaMC6WZvUsIXVVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946761059596:android:012411aecbca10e2d74d29",
+        "android_client_info": {
+          "package_name": "com.mabrouk.quran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0hDvgxRZlnkXrkbZqCaMC6WZvUsIXVVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
